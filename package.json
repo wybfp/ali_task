@@ -1,0 +1,21 @@
+{
+  "name": "vuepress-starter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "devDependencies": {
+    "@vuepress/theme-blog": "^2.3.3",
+    "vuepress": "^1.8.0"
+  },
+  "directories": {
+    "doc": "docs"
+  },
+  "dependencies": {},
+  "keywords": [],
+  "author": "",
+  "description": ""
+}
